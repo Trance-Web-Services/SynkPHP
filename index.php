@@ -16,7 +16,7 @@
   <body>
     <!-- Sidebar -->
     <div class="sidebar">
-      <div class="header">Messenger</div>
+      <div class="header">Synk</div>
 
       <div class="section-title">Chats</div>
       <div class="Contacts">
